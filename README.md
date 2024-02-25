@@ -1,8 +1,11 @@
-Obs: Verificar sem possui o npm e nodejs
+API Nodejs utilizando Mysql, Express, Nodemon
+
+# Rodando o Projeto
+
+Obs: Verificar se possui o npm e nodejs
 node -v
 npm -v 
 no terminal
-
 
 1) fazer download do projeto
 2) ao baixar o projeto ir no terminal e fazer :
@@ -22,14 +25,16 @@ app.js -  arquivo responsável por configuracao a aplicacao e definir as princip
 package.json - arquivo responsavel pelo gerenciamento de dependencias, scripts, metadados do projeto,
 configuracao do ambiente de desenvolvimento, inicializacao do projeto, scripts de publicacao e build
 
+# Dependências
+Mysql - Banco de dados
+Express - é um framework web para Node.js que simplifica o desenvolvimento de aplicativos web e APIs.
+Nodemon - é uma ferramenta de desenvolvimento que monitora alterações no código-fonte e reinicia automaticamente o servidor Node.js 
 
-Foi utlizando o aplicativo insomnia para efetuar os testes na aplicacao.
-Obs: A API segue o padrao Singleton 
 
-# Explicacao
+# Padrao Singleton 
 O padrão Singleton é um padrão de criação que se concentra na criação de uma única instância de uma classe e no fornecimento de um ponto global de acesso a essa instância. Ele é frequentemente utilizado para controlar o acesso a recursos compartilhados ou para representar um ponto central de controle em uma aplicação.
 
-Insomnia
-
- ![](https://imgur.com/a/Ntq8LnI)
+# Insomnia
+Foi utlizando o aplicativo insomnia para efetuar os testes na aplicacao.
+[Projeto](https://imgur.com/a/Ntq8LnI) -
 
