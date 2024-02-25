@@ -3,8 +3,8 @@
 ## Rodando o Projeto
 
 Obs: Verificar se possui o npm e nodejs
-node -v
-npm -v 
+`node -v`
+`npm -v` 
 no terminal
 
 1) fazer download do projeto
